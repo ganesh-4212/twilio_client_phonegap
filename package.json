@@ -1,0 +1,27 @@
+{
+  "name": "twilio_client_phonegap",
+  "version": "1.0.7",
+  "description": "Use the native Twilio Client for iOS or Android with Cordova/PhoneGap and the Twilio Client JavaScript API",
+  "main": "www/tcPlugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganesh-4212/twilio_client_phonegap.git"
+  },
+  "keywords": [
+    "Twilio",
+    "plugin",
+    "for",
+    "Cordova",
+    "phonegap",
+    "Ionic"
+  ],
+  "author": "Ganesh Poojary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ganesh-4212/twilio_client_phonegap/issues"
+  },
+  "homepage": "https://github.com/ganesh-4212/twilio_client_phonegap#readme"
+}
